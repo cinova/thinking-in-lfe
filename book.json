@@ -1,0 +1,21 @@
+{
+    "title": "Thinking in LFE",
+    "description": "Idioms from Erlang",
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "night",
+            "family": "serif",
+            "size": 1
+        },
+    },
+    "links": {
+        "sidebar": {
+            "Cinova Dev": "http://github.com/cinova/"
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "paperSize": "a4"
+    }
+}
